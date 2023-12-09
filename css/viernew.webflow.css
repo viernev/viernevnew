@@ -958,7 +958,7 @@ a {
   color: #111;
   margin-top: -.56em;
   margin-bottom: 0;
-  font-family: "Enchanted Hermion Script Bf 6545 Da 70457 Bf", sans-serif;
+  font-family: EnchantedScriptItalic, sans-serif;
   font-size: 42em;
   font-weight: 400;
 }
@@ -1180,7 +1180,7 @@ a {
 }
 
 .heading-7 {
-  font-family: "Enchanted Hermion Serif Bf 6545 Da 703 Bf 23", sans-serif;
+  font-family: EnchantedSerifItalic, sans-serif;
   font-size: 10rem;
   font-weight: 400;
 }
@@ -1429,7 +1429,7 @@ a {
   .heading-2 {
     margin-top: -.46em;
     padding-left: 489px;
-    font-family: "Enchanted Hermion Script Bf 6545 Da 70457 Bf", sans-serif;
+    font-family: EnchantedScriptItalic, sans-serif;
     font-size: 60em;
     font-weight: 100;
   }
@@ -1545,7 +1545,7 @@ a {
   }
 
   .heading-7 {
-    font-family: "Enchanted Hermion Serif Bf 6545 Da 703 Bf 23", sans-serif;
+    font-family: EnchantedSerifItalic, sans-serif;
     font-size: 12rem;
     font-weight: 400;
   }
@@ -2773,7 +2773,7 @@ a {
   font-display: swap;
 }
 @font-face {
-  font-family: 'Enchanted Hermion Serif Bf 6545 Da 703 Bf 23';
+  font-family: 'EnchantedSerifItalic';
   src: url('../fonts/Enchanted-Hermion-Serif-Italic-BF6545da703bf23.otf') format('opentype');
   font-weight: 400;
   font-style: italic;
@@ -2794,7 +2794,7 @@ a {
   font-display: swap;
 }
 @font-face {
-  font-family: 'Enchanted Hermion Script Bf 6545 Da 70457 Bf';
+  font-family: 'EnchantedScriptItalic';
   src: url('../fonts/Enchanted-Hermion-Script-Italic-BF6545da70457bf.otf') format('opentype');
   font-weight: 400;
   font-style: italic;
