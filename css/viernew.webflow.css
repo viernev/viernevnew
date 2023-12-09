@@ -2776,7 +2776,7 @@ a {
   font-family: 'EnchantedSerifItalic';
   src: url('../fonts/Enchanted-Hermion-Serif-Italic-BF6545da703bf23.otf') format('opentype');
   font-weight: 400;
-  font-style: italic;
+  font-style: normal;
   font-display: swap;
 }
 @font-face {
@@ -2797,6 +2797,6 @@ a {
   font-family: 'EnchantedScriptItalic';
   src: url('../fonts/Enchanted-Hermion-Script-Italic-BF6545da70457bf.otf') format('opentype');
   font-weight: 400;
-  font-style: italic;
+  font-style: normal;
   font-display: swap;
 }
